@@ -5,7 +5,6 @@
 <div>
    <a href="https://github.com/leoalveslcm">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leoalveslcm&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img align="right" alt="Foto de Michal Scott" style="box-shadow: 2px 2px 5px;" height:"400" width="400" src="">
 </div>
 
 <div style="display: inline-block"><br>

@@ -5,6 +5,7 @@
 <div>
    <a href="https://github.com/leoalveslcm">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leoalveslcm&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github.com/leoalveslcm/leoalveslcm/blob/main/michael2.png"/>
 </div>
 
 <div style="display: inline-block"><br>

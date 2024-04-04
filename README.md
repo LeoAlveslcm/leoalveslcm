@@ -1,6 +1,4 @@
-## Olá! Sou o Leo 👋
-
-- 🌱 Em desenvolvimento constante
+## Olá! 👋
 
 <div>
    <a href="https://github.com/leoalveslcm">

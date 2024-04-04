@@ -1,6 +1,6 @@
 ## Olá! Sou o Leo 👋
 
-- 🌱 Atualmente estudando Javascript
+- 🌱 Em desenvolvimento constante
 
 <div>
    <a href="https://github.com/leoalveslcm">
